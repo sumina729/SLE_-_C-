@@ -4,7 +4,6 @@ int main() {
   int size; //사이즈
   int B, S; //공백, 별, 
 
-  printf("size? >> ");
   scanf("%d", &size);
 
   B=(size-1)*2;

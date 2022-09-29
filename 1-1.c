@@ -11,7 +11,7 @@ int main() {
         sum+=num[i]*num[i];
     }
 
-    finish_num=sum%5;
+    finish_num=sum%10;
 
     printf("%d", finish_num);
     

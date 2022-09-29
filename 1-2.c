@@ -13,12 +13,12 @@ int main() {
         minute=(minute-60);
         hour+=1;
     }
+    
     if(hour>23){
-        hour=0;
+        hour-=24;
     }
 
     printf("%d %d", hour, minute);
-
 
     return 0;
 }
