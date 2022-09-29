@@ -1,3 +1,4 @@
+//조건문 - 오븐 시계
 #include <stdio.h>
 
 int main() {
