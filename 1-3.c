@@ -1,3 +1,4 @@
+//반복문 - 별 찍기 8
 #include <stdio.h>
 
 int main() {

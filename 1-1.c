@@ -1,3 +1,4 @@
+//입출력 - 검증수
 #include <stdio.h>
 
 int main() {
